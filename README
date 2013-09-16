@@ -4,7 +4,7 @@ DESCRIPTION
 
 	    git clone git://github.com/jaalto/test.git test.git
 
-	If you're firewall does not allow git protocol port (4321), use:
+	If your firewall does not allow git protocol port (4321), use:
 
 	    git clone http://github.com/jaalto/test.git test.git
 
