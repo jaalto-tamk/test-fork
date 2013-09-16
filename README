@@ -1,0 +1,21 @@
+DESCRIPTION
+
+	This is test repository. You can clone it with command:
+
+	    git clone git://github.com/jaalto/test.git test.git
+
+	If you're firewall does not allow git protocol port (4321), use:
+
+	    git clone http://github.com/jaalto/test.git test.git
+
+	The repository can be viewed online with browser at:
+
+	    https://github.com/jaalto/test
+
+GITHUB
+
+	You can sign in and create your own account at github:
+
+	    http://www.github.com
+
+End od file
